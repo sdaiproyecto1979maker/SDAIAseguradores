@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+    <DIREAPLICA>Aseguradores</DIREAPLICA>
+    <DIRSAPLICA>
+        <DIRDAPLICA>
+            <DIRECTORIO>DIRECTLOGS</DIRECTORIO>
+            <NAMEDIRECT>Logs</NAMEDIRECT>
+        </DIRDAPLICA>
+        <DIRDAPLICA>
+            <DIRECTORIO>DIRECTTEMP</DIRECTORIO>
+            <NAMEDIRECT>Temporal</NAMEDIRECT>
+        </DIRDAPLICA>
+        <DIRDAPLICA>
+            <DIRECTORIO>DIRECTDCFG</DIRECTORIO>
+            <NAMEDIRECT>Configuración</NAMEDIRECT>
+        </DIRDAPLICA>
+    </DIRSAPLICA>
+</ROOT>
+
